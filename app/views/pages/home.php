@@ -5,7 +5,7 @@
             echo $data['simpleMessage'];        
         }
         else {
-            echo 'Home Page';
+            echo 'This is Home Page';
         }
     ?>
 
