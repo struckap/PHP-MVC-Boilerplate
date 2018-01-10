@@ -2,6 +2,7 @@
 /** 
 *  Main home controller
 */
+
 class Err extends Controller
 {
     public function index()
